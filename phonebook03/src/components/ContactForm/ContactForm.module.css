@@ -1,0 +1,27 @@
+.contactForm{
+ 
+}
+
+.contactForm__label{
+  display: block;
+  margin-bottom: 20px;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.contactForm__input{
+  padding: 10px 20px;
+  margin-bottom: 20px;
+}
+
+.contactForm__submit{
+  display: block;
+  padding: 10px;
+  background-color: aliceblue;
+  cursor: pointer;
+  transition: 0.5s ease;
+}
+
+.contactForm__submit:hover{
+  box-shadow: 0px 0px 8px rgb(45, 122, 238);
+}
